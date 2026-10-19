@@ -17,7 +17,7 @@ const numeros1 = [1,2,3]
 const numeros2 = [1,2,3]
 
 const numeros3 = [1, 2, [2,5], [1,[2]]]
-console.log(numeros [3])
+console.log(numeros3 [3][1][0])
 
 for(let i =0;i < 10;i++){
   console.log(i)
